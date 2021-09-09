@@ -3,4 +3,5 @@ leche
 mantequilla
 canela
 vainilla
-
+azucar
+sal
